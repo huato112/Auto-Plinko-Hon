@@ -1,4 +1,3 @@
 # POST_APIHON
 
-Hon
-auto plinko แบบซิ่ง ๆ
+Get cookies from memory then send method post to auto plinko
